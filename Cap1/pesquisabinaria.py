@@ -19,3 +19,7 @@ print(pesquisa_binaria(minha_lista, 2))
 
 #Ex-1) 7
 #Ex-2) 8
+#Ex-3)O(log n)
+#Ex-4)O(n)
+#Ex-5)O(n)
+#Ex-6)
